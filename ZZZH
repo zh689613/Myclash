@@ -38,12 +38,9 @@ Anchor_MY: &Anchor_MY '^(?i)(?=.*(🇲🇾|马来西亚|MY|Malaysia|马国)).*$'
 Anchor_PH: &Anchor_PH '^(?i)(?=.*(🇵🇭|菲律宾|PH|Philippines|Manila|马尼拉)).*$'
 Anchor_AU: &Anchor_AU '^(?i)(?=.*(澳洲|澳大利亚|悉尼|墨尔本|布里斯班|AU|Australia)).*$'
 
-# 节点订阅
-# 将 “订阅链接” 与 “机场名” 替换为所用机场信息； 订阅条数不够可新增，注意开头缩进，不同条数前方 “机场名” 不能重复； 末尾的 “机场名” 作用为每个节点添加机场名称前缀，可自定义。
-#proxy-providers:
-#  机场名: {<<: *Anchor_PR, url: '订阅链接', override: {additional-prefix: '[机场名] '}}
 
-#========= 订阅链接 ========#
+
+#========= 订 ========#
 proxy-providers:
    
   Airport1:
