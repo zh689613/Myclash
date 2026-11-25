@@ -1,4 +1,4 @@
-[2026/11/25 下午 3:44] null: mixed-port: 7890
+mixed-port: 7890
 allow-lan: false
 mode: rule
 log-level: info
@@ -205,7 +205,7 @@ proxies:
   port: 62000
   username: ks878449260d
   password: YlRoWvE0dL_cUqS94wPeKnA4
-[2026/11/25 下午 3:44] null: - name: 墨西哥-墨西哥城-14【家宽】
+- name: 墨西哥-墨西哥城-14【家宽】
   password: sZnD8GTz
   port: 42000
   server: 144.225.47.106
