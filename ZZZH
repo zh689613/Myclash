@@ -44,7 +44,7 @@ Anchor_AU: &Anchor_AU '^(?i)(?=.*(澳洲|澳大利亚|悉尼|墨尔本|布里斯
 proxy-providers:
    
   Airport1:
-    url: "https://sub.curtinp.cc.cd/c/?token=8b582d7006648e5e2b3f7e61c92b0cd4"
+    url: "https://freenode.yoyapai.com/2026/11/25-yoyapai.com-clash-vpn-mianfei-jie-dian.yaml"
     type: http
     interval: 3600
     path: ./proxy_providers/Airport1.yaml
